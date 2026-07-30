@@ -1,0 +1,14 @@
+C:\projects\C#\homework_parallel\bin\Debug\net10.0\homework_parallel.exe
+C:\projects\C#\homework_parallel\bin\Debug\net10.0\homework_parallel.deps.json
+C:\projects\C#\homework_parallel\bin\Debug\net10.0\homework_parallel.runtimeconfig.json
+C:\projects\C#\homework_parallel\bin\Debug\net10.0\homework_parallel.dll
+C:\projects\C#\homework_parallel\bin\Debug\net10.0\homework_parallel.pdb
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.AssemblyInfoInputs.cache
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.AssemblyInfo.cs
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.csproj.CoreCompileInputs.cache
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.dll
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\refint\homework_parallel.dll
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.pdb
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\homework_parallel.genruntimeconfig.cache
+C:\projects\C#\homework_parallel\obj\Debug\net10.0\ref\homework_parallel.dll

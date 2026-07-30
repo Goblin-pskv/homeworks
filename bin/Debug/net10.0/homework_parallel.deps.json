@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "homework_parallel/1.0.0": {
+        "runtime": {
+          "homework_parallel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homework_parallel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
